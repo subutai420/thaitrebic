@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "thaitrebic",
+  "compatibility_date": "2026-10-19",
+  "assets": {
+    "directory": "./dist",
+    // React Router: neznámé cesty (/masaze/...) vrátí index.html
+    "not_found_handling": "single-page-application"
+  }
+}
