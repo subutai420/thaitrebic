@@ -1,6 +1,6 @@
 import { Button } from './ui/button';
 import { MapPin, Phone } from 'lucide-react';
-import heroImage from 'figma:asset/119de24d185f2e2ac90e254f80d06b1a8d85292e.png';
+import heroImage from 'figma:asset/119de24d185f2e2ac90e254f80d06b1a8d85292e.webp';
 
 export function Hero() {
   return (

@@ -1,7 +1,7 @@
 import { ImageWithFallback } from './figma/ImageWithFallback';
-import studioReception from 'figma:asset/70a91110837d1601a31f70dc7ff27d53c44451e8.png';
-import studioDetail from 'figma:asset/23bea1ee855380312d5de82133bc9662b423deed.png';
-import massageRoom from 'figma:asset/297f460189062f9decdf96860e2bc8cee91730a9.png';
+import studioReception from 'figma:asset/70a91110837d1601a31f70dc7ff27d53c44451e8.webp';
+import studioDetail from 'figma:asset/23bea1ee855380312d5de82133bc9662b423deed.webp';
+import massageRoom from 'figma:asset/297f460189062f9decdf96860e2bc8cee91730a9.webp';
 
 export function Gallery() {
   const images = [
